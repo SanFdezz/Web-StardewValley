@@ -1,0 +1,13 @@
+[
+    {
+        "nombre":"Sandra",
+        "edad":18,
+        "estudios":"DAW"
+    },
+
+    {
+        "nombre":"Ariel",
+        "edad":19,
+        "estudios":"Ingenieria Informática"
+    }
+]
