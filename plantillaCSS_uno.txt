@@ -1,0 +1,25 @@
+#mainmenucontainer table.wikitable {
+   background-color: rgba(209,248,255,0.67); 
+   width: 100%; 
+   display: table;
+   margin-top: 0;
+}
+
+#mainmenucontainer table.wikitable th.quarter {
+   width: 25%;
+}
+
+#mainmenucontainer table.wikitable td {
+   vertical-align: top;
+   border: 0 !important;
+   background: transparent !important;
+}
+
+#mainmenucontainer table.wikitable td div.bordered {
+   border: 1px solid #8DCAF0; 
+   border-radius: 11px; 
+   box-shadow: 0px 1px rgba(0,0,0,0.3); 
+   margin-bottom: 3px;
+}
+
+/* [[Category:Plantillas]] */
